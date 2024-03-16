@@ -1,0 +1,21 @@
+Problem Brain storm
+
+1) get the correct director/list default options for dir
+
+2) get a project name from user
+
+3) start virtual env with that project name
+
+4) download load django
+
+5) create app, use the default names, make it easier to copy and paste information (THIS STEP HAS ADVANCED OPTIONS ^^^)
+
+6) migrate server
+
+7) run server
+
+#########ADVANCED OPTIONS
+
+write to the file and change the source code
+change the settings, views, and url files. 
+
